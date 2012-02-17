@@ -1,0 +1,13 @@
+C:\Users\Ole-Andreas\documents\visual studio 2010\Projects\MCBackup\MCBackup\bin\Debug\MCBackup.exe.config
+C:\Users\Ole-Andreas\documents\visual studio 2010\Projects\MCBackup\MCBackup\bin\Debug\MCBackup.exe
+C:\Users\Ole-Andreas\documents\visual studio 2010\Projects\MCBackup\MCBackup\bin\Debug\MCBackup.pdb
+C:\Users\Ole-Andreas\documents\visual studio 2010\Projects\MCBackup\MCBackup\bin\Debug\MCBackup.xml
+C:\Users\Ole-Andreas\documents\visual studio 2010\Projects\MCBackup\MCBackup\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ole-Andreas\documents\visual studio 2010\Projects\MCBackup\MCBackup\obj\x86\Debug\MCBackup.Form1.resources
+C:\Users\Ole-Andreas\documents\visual studio 2010\Projects\MCBackup\MCBackup\obj\x86\Debug\MCBackup.Resources.resources
+C:\Users\Ole-Andreas\documents\visual studio 2010\Projects\MCBackup\MCBackup\obj\x86\Debug\MCBackup.settings.resources
+C:\Users\Ole-Andreas\documents\visual studio 2010\Projects\MCBackup\MCBackup\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Ole-Andreas\documents\visual studio 2010\Projects\MCBackup\MCBackup\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Ole-Andreas\documents\visual studio 2010\Projects\MCBackup\MCBackup\obj\x86\Debug\MCBackup.exe
+C:\Users\Ole-Andreas\documents\visual studio 2010\Projects\MCBackup\MCBackup\obj\x86\Debug\MCBackup.xml
+C:\Users\Ole-Andreas\documents\visual studio 2010\Projects\MCBackup\MCBackup\obj\x86\Debug\MCBackup.pdb
